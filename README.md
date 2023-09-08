@@ -22,7 +22,7 @@
 
 - source ~/miniforge3/bin/activate
 
-- create a new directory and move to the new directory (using mkdir and cd)
+- create a new directory and move to the new directory
 
 - conda create --prefix ./ENV_NAME python=3.8
 
@@ -40,7 +40,7 @@
 
 - source ~/miniforge3/bin/activate
 
-- create a new directory and move to the new directory (using mkdir and cd)
+- create a new directory and move to the new directory
 
 - conda create --prefix ./ENV_NAME python=3.8
 
